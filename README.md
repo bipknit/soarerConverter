@@ -66,3 +66,11 @@ Personally I recommend getting the Arduino Pro Micro clone or the USB-C variant 
 You can also get these Teensy® USB Development Boards but during this tutorial we are going to use the Arduino Pro Micro
 
 <img src="https://github.com/bipknit/soarerConverter/blob/main/src/teensy20plusplus.png" alt="Teensy++ 2.0" width="400"/>
+
+
+# Step 2: Getting the RJ45 female connector
+You can either purchase an RJ45 female head and handle the cable management yourself, or, for easier soldering, I recommend using an RJ45 breakout board. The breakout board simplifies wiring but requires slightly more space.
+
+Keywords to find the RJ45 F head: Shield RJ45 8P8C Jack Connector, Shielded RJ45 8P8C Jack Connector
+
+Keywords to find the RJ45 breakout board: RJ45 Adapter Board to XH2.54 Modular Ethernet Connector Breakout board.
