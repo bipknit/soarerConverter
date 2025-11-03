@@ -45,3 +45,10 @@ It sounds mechanical in the purest sense, almost like a typewriter, and provides
 Gather info about yout model M from the database by typing the part number on the back of your keyboard.
 
 https://sharktastica.co.uk/keyboard-database
+
+From this website you can gather the protocol that is being used as output by default.
+
+
+# Step 2: Getting the microcontroller
+
+
