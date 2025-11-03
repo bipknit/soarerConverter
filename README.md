@@ -50,5 +50,7 @@ From this website you can gather the protocol that is being used as output by de
 
 
 # Step 2: Getting the microcontroller
-
+Personally I recommend getting the Arduino Pro Micro clone or the USB-C variant from china cause thats the cheapest solution, you can find a lot of offers on sites like Aliexpress, Temu etc.
+<img src="https://github.com/bipknit/soarerConverter/blob/main/src/promicrousbc.png" alt="Arduino Pro Micro USB-C" width="400"/>
+You can also get these Teensy® USB Development Boards 
 
