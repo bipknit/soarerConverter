@@ -79,3 +79,66 @@ Keywords to find the RJ45 breakout board: RJ45 Adapter Board to XH2.54 Modular E
 
 # Step 3: Get them cables
 Get some Pre-cut hookup wire or Dupont jumper wires depending on your solution.
+
+First chapter end.
+
+---
+
+# Wiring & Setup Guide
+
+This guide walks you through wiring a **Soarer's Converter** (or compatible firmware such as **Vial-QMK IBMPC_USB**) using a **Pro Micro** and an **RJ45 keyboard connection**.
+
+
+
+## Step 1: Verify Keyboard-Side Pinout
+
+Your keyboard-side pinout appears to be **correct**.  
+If you’re unsure, you can check the **female pinout diagrams** available on my website.  
+Your wiring should match those diagrams.
+
+
+## Step 2: Check Pro Micro Wiring (Clock & Data Lines)
+
+One common mistake is **reversing the Clock and Data pins** on the Pro Micro.
+
+Please double-check your wiring — it looks like your **Clock (CLK)** and **Data (DAT)** lines may be swapped.
+
+Make sure:
+- **Clock (CLK)** from the keyboard goes to the correct **Pro Micro pin**
+- **Data (DAT)** from the keyboard goes to the correct **Pro Micro pin**
+
+
+## Step 3: Pull-Up Resistors
+
+According to the **Soarer's Converter documentation:**
+
+> In nearly all cases, these resistors are not needed.  
+> But, if the keyboard has a very long cable (3m+), I recommend adding two pull-up resistors of 1 kΩ — one between Clock and +5 V, the other between Data and +5 V.
+
+That said, if you already have 1 kΩ resistors on hand, you can safely add them — doing so won’t cause any issues and may improve signal reliability.
+
+**Recommended:**  
+- Add **1 kΩ resistor** between **Clock ↔ +5 V**  
+- Add **1 kΩ resistor** between **Data ↔ +5 V**
+
+
+## Step 4: Firmware Options
+
+If you’re building a **literal Soarer's Converter**, use the **official Soarer's Converter firmware** — there’s only one, so just go with the latest version.
+
+However, for a more modern and flexible alternative, consider the **Vial-QMK port of the IBMPC_USB converter**.  
+This firmware supports a GUI (Vial) that allows **real-time editing and saving** of layout changes directly to the converter.
+
+**Advantages of Vial-QMK:**
+- GUI-based configuration
+- No need to reflash for layout changes
+- Compatible pinouts (no wiring changes needed)
+
+
+## Step 5: Choosing the Right Firmware Binary
+
+If you’re using a **Pro Micro (ATmega32U4)**, flash the following firmware file:
+
+
+
+
