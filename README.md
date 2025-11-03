@@ -75,5 +75,5 @@ Keywords to find the RJ45 F head: Shield RJ45 8P8C Jack Connector, Shielded RJ45
 
 Keywords to find the RJ45 breakout board: RJ45 Adapter Board to XH2.54 Modular Ethernet Connector Breakout board.
 
-# Step 2: Get them cables
+# Step 3: Get them cables
 Get some Pre-cut hookup wire or Dupont jumper wires depending on your solution.
