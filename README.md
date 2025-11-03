@@ -9,8 +9,11 @@ I made a lot of these converters in the past year so I decided to make a tutoria
 - Steel backplate: gives it substantial weight (often 2+ kg) and zero flex.
 - Thick ABS or PBT keycaps: double-shot or dye-sublimated legends that never fade.
 - Modular design: easily repairable — you can open it, clean it, and replace parts.
-
+https://github.com/bipknit/soarerConverter/blob/main/src/buckling-spring-working-switch.gif
 ## 2. Buckling Spring Mechanism
+
+<img src="https://github.com/bipknit/soarerConverter/blob/main/src/buckling-spring-working-switch.gif" alt="buckling spring" width="400"/>
+
 
 This is the defining feature of the Model M.
 How it works:
@@ -30,6 +33,12 @@ Why it feels so good:
     The actuation point is highly predictable; your fingers “learn” exactly when a key activates.
 
 Many typists find it more satisfying and accurate than most modern switches.
+
+## 3. The Sound
+
+The Model M’s click isn’t just loud — it’s rich and tonal.
+It sounds mechanical in the purest sense, almost like a typewriter, and provides strong aural feedback that reinforces the tactile feel.
+*(Though it’s not office-friendly — it’s very loud!)*
 
 
 # Step 1: Gathering the model number and certain info
