@@ -89,7 +89,7 @@ First chapter end.
 
 This guide walks you through wiring a **Soarer's Converter** (or compatible firmware such as **Vial-QMK IBMPC_USB**) using a **Pro Micro** and an **RJ45 keyboard connection**.
 
-
+Firmware can be found here (Vial QMK): https://github.com/qmk/qmk_toolbox/releases
 
 ## Step 1: Verify Keyboard-Side Pinout
 
