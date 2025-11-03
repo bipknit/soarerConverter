@@ -49,8 +49,12 @@ https://sharktastica.co.uk/keyboard-database
 From this website you can gather the protocol that is being used as output by default.
 During this tutorial we gonna use the case it uses the IBM terminal 8P5C/RJ45 protocol as default.
 
-The pinouts for all possible protocols can be found at:
-https://github.com/bipknit/soarerConverter/blob/main/src/kbd_connector_ibmterm.png
+The pinouts for all possible protocols can be found at: https://github.com/bipknit/soarerConverter/blob/main/pinout/
+
+Just to clarify, we are going to use this one:
+
+<img src="https://github.com/bipknit/soarerConverter/blob/main/pinout/kbd_connector_ibmterm.png" alt="IBM Terminal protocol" width="400"/>
+
 
 # Step 2: Getting the microcontroller
 Personally I recommend getting the Arduino Pro Micro clone or the USB-C variant from china cause thats the cheapest solution, you can find a lot of offers on sites like Aliexpress, Temu etc.
