@@ -1,5 +1,7 @@
 QMK Vial Links:
 
+https://github.com/purdeaandrei/vial-qmk-with-ibmpc-usb-converter/releases
+
 https://docs.qmk.fm/
 
 https://github.com/vial-kb
