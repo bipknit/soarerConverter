@@ -93,9 +93,11 @@ Firmware can be found here (Vial QMK): https://github.com/qmk/qmk_toolbox/releas
 
 ## Step 1: Verify Keyboard-Side Pinout
 
-Your keyboard-side pinout appears to be **correct**.  
-If you’re unsure, you can check the **female pinout diagrams** available on my website.  
+Make sure your keyboards pinout appears to be **correct**.  
+If you’re unsure, you can check the **female pinout diagrams** available on [sharkastica website](https://sharktastica.co.uk/topics/connectors#ModularPinouts).  
 Your wiring should match those diagrams.
+
+<img src="https://github.com/bipknit/soarerConverter/blob/main/references/ref1self.jpeg" alt="self build reference converter via pro micro clone" width="400"/>
 
 
 ## Step 2: Check Pro Micro Wiring (Clock & Data Lines)
@@ -107,6 +109,10 @@ Please double-check your wiring — it looks like your **Clock (CLK)** and **Dat
 Make sure:
 - **Clock (CLK)** from the keyboard goes to the correct **Pro Micro pin**
 - **Data (DAT)** from the keyboard goes to the correct **Pro Micro pin**
+
+Reference how it should look atleast to function: 
+
+https://github.com/bipknit/soarerConverter/blob/main/references/ref1self.jpeg
 
 
 ## Step 3: Pull-Up Resistors
@@ -140,6 +146,7 @@ This firmware supports a GUI (Vial) that allows **real-time editing and saving**
 
 If you’re using a **Pro Micro (ATmega32U4)**, flash the following firmware file:
 
+"converter_ibmpc_usb_atmega32u4_caterina_vial.hex" is the correct binary.
 
 
 
