@@ -4,6 +4,8 @@
 A tutorial for how to converting certain IBM keyboard protocol to standard USB
 I made a lot of these converters in the past year so I decided to make a tutorial.
 
+Big thanks to https://www.reddit.com/user/SharktasticA/ for helping me creating my first converter in 2024.
+
 # Why the IBM Model M compared to new keyboards?
 ## 1. The Model M (introduced in 1985) was built like a tank:
 - Steel backplate: gives it substantial weight (often 2+ kg) and zero flex.
