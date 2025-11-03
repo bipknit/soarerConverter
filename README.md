@@ -8,6 +8,7 @@ Big thanks to https://www.reddit.com/user/SharktasticA/ for helping me creating 
 
 A summarized version can be found here: https://sharktastica.co.uk/buyers/converting
 
+And another with the classic firmware here (build log): https://github.com/aholland909/Soarers-Convertor-Build
 # Why the IBM Model M compared to new keyboards?
 ## 1. The Model M (introduced in 1985) was built like a tank:
 - Steel backplate: gives it substantial weight (often 2+ kg) and zero flex.
