@@ -47,10 +47,15 @@ Gather info about yout model M from the database by typing the part number on th
 https://sharktastica.co.uk/keyboard-database
 
 From this website you can gather the protocol that is being used as output by default.
+During this tutorial we gonna use the case it uses the IBM terminal 8P5C/RJ45 protocol as default.
 
 
 # Step 2: Getting the microcontroller
 Personally I recommend getting the Arduino Pro Micro clone or the USB-C variant from china cause thats the cheapest solution, you can find a lot of offers on sites like Aliexpress, Temu etc.
-<img src="https://github.com/bipknit/soarerConverter/blob/main/src/promicrousbc.png" alt="Arduino Pro Micro USB-C" width="400"/>
-You can also get these Teensy® USB Development Boards 
+
+<img src="https://github.com/bipknit/soarerConverter/blob/main/src/promicrousbc.png" alt="Arduino Pro USB-C" width="400"/>
+
+You can also get these Teensy® USB Development Boards but during this tutorial we are going to use the Arduino Pro Micro
+
+<img src="https://github.com/bipknit/soarerConverter/blob/main/src/teensy20plusplus.png" alt="Teensy++ 2.0" width="400"/>
 
