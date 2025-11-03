@@ -1,6 +1,9 @@
-QMK Vial Links:
 
 https://github.com/purdeaandrei/vial-qmk-with-ibmpc-usb-converter/releases
+
+https://sharktastica.co.uk/topics/connectors#ModularPinouts
+
+QMK Vial Links:
 
 https://docs.qmk.fm/
 
